@@ -24,14 +24,6 @@ The main goal of this page is to:
 - Get comfortable using Live Server for real-time preview
 - Prepare for more advanced topics like CSS and JavaScript
 
----
-
-## 🌐 Live Demo
-
-Check out the live version of this page here:  
-👉 [Live Page Link](#) *(Add your GitHub Pages or Netlify link here)*
-
----
 
 ## 🛠️ Tech Stack
 
@@ -49,14 +41,7 @@ Through this project, I learned:
 - How HTML elements are nested and structured
 - How to fix common beginner mistakes
 
----
 
-## 📸 Screenshot
-
-*(Optional)*  
-![Preview of HTML Page](screenshot.png)
-
----
 
 ## 💡 What's Next?
 
